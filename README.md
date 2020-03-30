@@ -1,3 +1,1 @@
-# Portfolio
-
-https://neodeostudios.github.io/Portfolio/
+# NeoDeoStudios.github.io
