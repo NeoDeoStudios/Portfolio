@@ -346,7 +346,7 @@ p {
     padding: 0px;
 }
 
-#portfolio .section-heading {
+#deva .section-heading {
     padding-top: 200px;
     padding-bottom: 200px;
     background-color: #000000;
@@ -355,11 +355,16 @@ p {
     padding-left: 100vh;
 }
 
-#portfolio .project-item {
+#deva .project-item {
     margin: 0px -16px;
 }
 
-#portfolio .section-heading h4 {
+#deva .project-item :hover {
+    background-color: #000000;
+    transition: 0.5s;
+}
+
+#deva .section-heading h4 {
     margin-top: 0px;
     font-size: 20px;
     text-transform: uppercase;
@@ -368,14 +373,14 @@ p {
     letter-spacing: 1px;
 }
 
-#portfolio .section-heading .line-dec {
+#deva .section-heading .line-dec {
     width: 270px;
     height: 1px;
     background-color: rgba(250, 250, 250, 0.5);
     margin: 20px 0px 15px 0px;
 }
 
-#portfolio .section-heading p {
+#deva .section-heading p {
     color: #fff;
     padding-right: 70px;
 }
@@ -804,7 +809,7 @@ footer .connect-us ul li a:hover {
     #about .service-item {
         margin-bottom: 80px;
     }
-    #portfolio .section-heading {
+    #deva .section-heading {
         text-align: center;
         padding-top: 100px;
         padding-bottom: 100px;
@@ -816,17 +821,17 @@ footer .connect-us ul li a:hover {
         padding-right: 0vh;
         overflow: hidden;
     }
-    #portfolio .section-heading .line-dec {
+    #deva .section-heading .line-dec {
         margin: 20px auto 15px auto;
     }
-    #portfolio .section-heading p {
+    #deva .section-heading p {
         padding: 0px 20px;
     }
     .projects-holder {
         text-align: center;
         padding: 15px 0px;
     }
-    #portfolio .project-item {
+    #deva .project-item {
         margin: 15px 0px;
     }
     #blog .section-heading {
