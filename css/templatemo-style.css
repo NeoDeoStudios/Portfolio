@@ -43,7 +43,7 @@ p {
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .primary-blue-button a {
@@ -98,7 +98,7 @@ p {
 }
 
 .navbar-nav>li>a {
-    color: rgb(255, 251, 0)!important;
+    color: rgb(0, 255, 200)!important;
     font-size: 15px;
     font-weight: 300;
     text-transform: uppercase;
@@ -219,9 +219,12 @@ p {
 
 .baner-content {
     width: 100%;
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
     padding-top: 35vh;
     text-align: center;
     background-image: url(../img/NeoDeo-neon.png);
+    background-color: #000000;
     vertical-align: middle;
 }
 
@@ -244,7 +247,7 @@ p {
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
-    color: rgb(255, 251, 0)!important;
+    color: rgb(0, 255, 200)!important;
 }
 
 .baner-content .text-content p {
